@@ -33,8 +33,10 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Tizkan?style=for-the-badge&color=58A6FF&label=Total%20Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Tizkan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58A6FF" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
