@@ -21,17 +21,17 @@
 
 ### 🧑‍💻 Về mình
 
-* 🎓 Sinh viên ngành Công nghệ Thông tin
-* 💻 Tập trung phát triển ứng dụng web với **.NET / C#**
-* 🌱 Luôn học hỏi và trau dồi kỹ năng lập trình mỗi ngày
-* 📫 Liên hệ: **[tin4651050275@st.qnu.edu.vn](mailto:tin4651050275@st.qnu.edu.vn)**
+- 🎓 Sinh viên ngành Công nghệ Thông tin
+- 💻 Tập trung phát triển ứng dụng web với **.NET / C#**
+- 🌱 Luôn học hỏi và trau dồi kỹ năng lập trình mỗi ngày
+- 📫 Liên hệ: **tin4651050275@st.qnu.edu.vn**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git,github&amp;theme=dark&amp;perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git,github&amp;theme=dark&amp;perline=8" alt="Tech Stack" />
 </p>
 
 ---
