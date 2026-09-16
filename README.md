@@ -1,45 +1,45 @@
-<h1 align="center">Xin chào, mình là <a href="https://github.com/Tizkan" target="_blank">Tizkan</a> 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin;Full-stack+Developer+%7C+.NET+%26+MERN;Dang+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+qu%E1%BA%A3n+l%C3%BD+kh%C3%A1ch+s%E1%BA%A1n" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tizkan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20.NET%20%26%20MySQL&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tizkan&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Tizkan?label=Followers&style=flat&color=58A6FF" alt="followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin;.NET+%26+C%23+Developer;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+m%E1%BB%97i+ng%C3%A0y" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Tizkan&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Tizkan?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
+</p>
+
+<p align="center">
+  <a href="mailto:tin4651050275@st.qnu.edu.vn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 Về mình
 
-- 🎓 Sinh viên đang học ngành Công nghệ Thông tin
+- 🎓 Sinh viên ngành Công nghệ Thông tin
+- 💻 Tập trung phát triển ứng dụng web với **.NET / C#**
 - 🌱 Luôn học hỏi và trau dồi kỹ năng lập trình mỗi ngày
-- 📫 Liên hệ: tin4651050275@st.qnu.edu.vn
+- 📫 Liên hệ: **tin4651050275@st.qnu.edu.vn**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,dotnet,cs,html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git,github&theme=dark&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Tizkan?style=for-the-badge&color=58A6FF&label=Total%20Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Tizkan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58A6FF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,19 +47,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Kết nối với mình
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TEN-LINKEDIN-THAT-CUA-BAN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tin4651050275@st.qnu.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/TEN-FACEBOOK-THAT-CUA-BAN/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
