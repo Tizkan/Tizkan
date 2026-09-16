@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tizkan&amp;label=Profile%20Views&amp;color=58A6FF&amp;style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Tizkan&amplabel=Followers&amp;style=for-the-badge&amp;color=58A6FF" alt="followers" />
+  <img src="https://img.shields.io/github/followers/?username=Tizkan&amplabel=Followers&amp;style=for-the-badge&amp;color=58A6FF" alt="followers" />
 </p>
 
 <p align="center">
