@@ -34,13 +34,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg"alt="GitHub Stats"height="180"/>
-  <img src="./profile/top-langs.svg"alt="Top Languages"height="180"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true"alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
@@ -54,9 +55,9 @@
 ### 🌐 Kết nối với mình
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/your-facebook/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TEN-LINKEDIN-THAT-CUA-BAN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tin4651050275@st.qnu.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/TEN-FACEBOOK-THAT-CUA-BAN/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align="center">
