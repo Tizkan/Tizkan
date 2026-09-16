@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trọng-Tín&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Trọng-Tín?label=Followers&style=flat&color=58A6FF" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tizkan&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Tizkan?label=Followers&style=flat&color=58A6FF" alt="followers" />
 </p>
 
 <p align="center">
