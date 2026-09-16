@@ -1,32 +1,41 @@
-name: Generate Snake Animation
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # chạy lại mỗi 6 tiếng
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%232e8fff&color_dots=%23161b22,%230a3d62,%23145da0,%231f7ae0,%232e8fff
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffb454&color_dots=%23161b22,%230a3d62,%23145da0,%231f7ae0,%232e8fff
-            dist/github-contribution-grid-snake.gif?color_snake=%23ffb454&color_dots=%23161b22,%230a3d62,%23145da0,%231f7ae0,%232e8fff
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Stats
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Tizkan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
