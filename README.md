@@ -34,14 +34,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-tau-vert.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-tau-vert.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Tizkan/Tizkan/main/dist/stats.svg" alt="GitHub stats" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tizkan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
 </p>
 
 ---
