@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/?username=Tizkan&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/?username=Tizkan&api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%" />
 </p>
 
 ---
