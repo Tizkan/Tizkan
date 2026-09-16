@@ -1,12 +1,12 @@
-<h1 align="center">Xin chào, mình là <a href="https://github.com/Tizkan" target="_blank">Trọng Tín</a> 👋</h1>
+<h1 align="center">Xin chào, mình là <a href="https://github.com/Tizkan" target="_blank">Tizkan</a> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin;Full-stack+Developer+%7C+.NET+%26+MERN;Dang+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+qu%E1%BA%A3n+l%C3%BD+kh%C3%A1ch+s%E1%BA%A1n" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat&color=58A6FF" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tizkan&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Tizkan?label=Followers&style=flat&color=58A6FF" alt="followers" />
 </p>
 
 <p align="center">
