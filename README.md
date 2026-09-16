@@ -1,101 +1,69 @@
-<!-- ============================================
-     THAY YOUR_USERNAME BẰNG USERNAME GITHUB CỦA BẠN
-     (Ctrl+H trong VS Code, replace all)
-     ============================================ -->
+<h1 align="center">Xin chào, mình là <a href="https://github.com/your-username" target="_blank">Trọng Tín</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=3000&color=EC4899&center=true&vCenter=true&width=500&height=60&lines=Tizkan" alt="name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin;Full-stack+Developer+%7C+.NET+%26+MERN;Dang+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+qu%E1%BA%A3n+l%C3%BD+kh%C3%A1ch+s%E1%BA%A1n" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/votrongtin123" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-EC4899?style=for-the-badge&logo=facebook&logoColor=white" height="28" alt="facebook"/>
-  </a>
-  <a href="mailto:tin4651050275@st.qnu.edu.vn">
-    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="gmail"/>
-  </a>
-  <a href="https://www.tiktok.com/@shinjungobitiz" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-EC4899?style=for-the-badge&logo=tiktok&logoColor=white" height="28" alt="tiktok"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat&color=58A6FF" alt="followers" />
 </p>
 
-## 👋 Hi there, Good Day
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%" />
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="72%" valign="top">
+### 🧑‍💻 Về mình
 
-Mình là sinh viên CNTT, quan tâm đến **phát triển hệ thống backend** với .NET.
-Mình thích tìm hiểu kiến trúc phần mềm, thiết kế cơ sở dữ liệu và xây dựng những
-ứng dụng web thật sự chạy được thay vì chỉ dừng ở bài tập trên lớp.
-
-Hiện tại mình đang xây dựng hệ thống quản lý khách sạn bằng **ASP.NET Core** và
-**Angular**, đồng thời học thêm về Entity Framework Core, RESTful API và clean architecture.
-
-<br/>
-
-<!-- SNAKE: chỉ hiện sau khi workflow trong .github/workflows/snake.yml chạy xong -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TizkanE/Tizkan/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-snake.svg" width="100%" />
-</picture>
-
-</td>
-<td width="28%" valign="center" align="center">
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="180" alt="wave"/>
-
-</td>
-</tr>
-</table>
-
-## 📚 Language and Tools
+- 🎓 Sinh viên đang học ngành Công nghệ Thông tin
+- 🌱 Luôn học hỏi và trau dồi kỹ năng lập trình mỗi ngày
+- 📫 Liên hệ: tin4651050275@st.qnu.edu.vn
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,ts,js,nodejs,express,html,css,bootstrap&theme=light" alt="skills"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,postman,vscode,figma&theme=light" alt="tools"/>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,dotnet,cs,html,css,js,git&theme=dark" />
 </p>
 
-<details>
-<summary><b>▸ More about me, backend dev 🔥</b></summary>
+---
 
-<br/>
+### 📊 GitHub Stats
 
-**Đang làm**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🏨 **Nhất Thanh** — hệ thống quản lý khách sạn
-  `ASP.NET Core Razor Pages` · `EF Core` · `SQL Server`
-  Quản lý phòng, đặt phòng, khách hàng, nhân sự. Giao diện quản trị tự thiết kế, không dùng thư viện UI ngoài.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
 
-- 💳 **Hotel Management** — web app quản lý khách sạn
-  `Angular` · `Node.js / Express` · `VNPAY`
-  6 module: Dashboard, Rooms, Bookings, Guests, Staff, Reports. Có tích hợp cổng thanh toán VNPAY sandbox.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
 
-**Đang học**
+---
 
-- Entity Framework Core & tối ưu truy vấn
-- Repository / Unit of Work pattern
-- Thiết kế RESTful API và xác thực JWT
-- Docker cơ bản cho môi trường dev
+### 🐍 Contribution Snake
 
-**Ngoài code**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-- Thích viết lại những thứ mình học được thành ghi chú cho người mới
-- Sẵn sàng trao đổi về C#, .NET, SQL Server — cứ nhắn mình
+---
 
-<br/>
+### 🌐 Kết nối với mình
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=EC4899&icon_color=EC4899" height="150" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=EC4899" height="150" alt="top langs"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/your-facebook/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-</details>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=visitors&color=EC4899&style=flat-square" alt="visitors"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
