@@ -28,12 +28,12 @@
 
 ---
 
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true " alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git,github&theme=dark&perline=8" alt="Tech Stack" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
