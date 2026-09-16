@@ -19,7 +19,7 @@
 
 ---
 
-### 🧑‍💻 Về mình
+### 💻 Về mình
 
 - 🎓 Sinh viên ngành Công nghệ Thông tin
 - 💻 Tập trung phát triển ứng dụng web với **.NET / C#**
@@ -36,7 +36,11 @@
 
 ---
 
-### 📊 GitHub Streak
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tizkan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tizkan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
