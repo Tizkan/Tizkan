@@ -4,16 +4,17 @@
      ============================================ -->
 
 <p align="center">
-  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=3000&color=EC4899&center=true&vCenter=true&width=500&height=60&lines=Tizkan" alt="name"/>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/votrongtin123" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-EC4899?style=for-the-badge&logo=facebook&logoColor=white" height="28" alt="facebook"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:tin4651050275@st.qnu.edu.vn">
     <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin"/>
-  </a>
-  <a href="https://www.tiktok.com/@YOUR_PROFILE" target="_blank">
+  <a href="https://www.tiktok.com/@shinjungobitiz" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-EC4899?style=for-the-badge&logo=tiktok&logoColor=white" height="28" alt="tiktok"/>
   </a>
 </p>
@@ -37,9 +38,9 @@ Hiện tại mình đang xây dựng hệ thống quản lý khách sạn bằng
 
 <!-- SNAKE: chỉ hiện sau khi workflow trong .github/workflows/snake.yml chạy xong -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TizkanE/Tizkan/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-snake.svg" width="100%" />
 </picture>
 
 </td>
