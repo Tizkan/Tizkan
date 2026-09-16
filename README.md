@@ -34,14 +34,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-tau-vert.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-tau-vert.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg"alt="GitHub Stats"height="180"/>
+  <img src="./profile/top-langs.svg"alt="Top Languages"height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true"alt="GitHub Streak"/>
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
