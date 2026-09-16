@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Tizkan/Tizkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# Xin chào 👋
+# Xin chào 👋
 
 **.NET Developer** — tập trung vào ASP.NET Core và các hệ thống quản lý nghiệp vụ.
 
@@ -58,7 +47,3 @@ Angular · Node.js / Express · VNPAY
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
