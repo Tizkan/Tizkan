@@ -12,17 +12,18 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: "Trong Tin (Tizkan)"
-role: "Software Development Student"
-focus: "Backend Development with .NET & ASP.NET"
-database: "MySQL"
-frontend_basics: ["HTML", "CSS", "JavaScript"]
-currently_learning: "ASP.NET Core, Clean Architecture"
-looking_for: "Internship & collaborative projects"
-fun_fact: "Debugging is my cardio"
-```
-
+<div align="center">
+| | |
+|---|---|
+| 🎓 **Role** | Software Development Student |
+| 🎯 **Focus** | Backend Development with C#, .NET & ASP.NET |
+| 🗄️ **Database** | MySQL |
+| 🌐 **Front-end Basics** | HTML, CSS, JavaScript |
+| 🌱 **Currently Learning** | ASP.NET Core, Clean Architecture |
+| 💼 **Looking For** | Internship & collaborative projects |
+| ⚡ **Fun Fact** | Debugging is my cardio |
+ 
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
 
 ## 🛠️ Tech Stack
