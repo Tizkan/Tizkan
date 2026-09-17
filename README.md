@@ -12,18 +12,23 @@
 
 ## 🧑‍💻 About Me
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
+
 <div align="center">
-| | |
-|---|---|
-| 🎓 **Role** | Software Development Student |
-| 🎯 **Focus** | Backend Development with C#, .NET & ASP.NET |
-| 🗄️ **Database** | MySQL |
-| 🌐 **Front-end Basics** | HTML, CSS, JavaScript |
-| 🌱 **Currently Learning** | ASP.NET Core, Clean Architecture |
-| 💼 **Looking For** | Internship & collaborative projects |
-| ⚡ **Fun Fact** | Debugging is my cardio |
+ 
+🎓 ![Role](https://img.shields.io/static/v1?label=Role&message=Software+Dev+Student&color=2F81F7&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
+🎯 ![Focus](https://img.shields.io/static/v1?label=Focus&message=Backend+with+.NET+Stack&color=8A2BE2&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
+ 
+🗄️ ![Database](https://img.shields.io/static/v1?label=Database&message=MySQL&color=00758F&style=for-the-badge&labelColor=0d1117)
+🌐 ![Frontend](https://img.shields.io/static/v1?label=Front-end&message=HTML%20/%20CSS%20/%20JS&color=E34F26&style=for-the-badge&labelColor=0d1117)
+ 
+🌱 ![Learning](https://img.shields.io/static/v1?label=Learning&message=ASP.NET%20Core%20/%20Clean%20Architecture&color=00C6FF&style=for-the-badge&labelColor=0d1117)
+ 
+💼 ![Looking](https://img.shields.io/static/v1?label=Looking%20For&message=Internship%20%26%20Collaboration&color=FF6B6B&style=for-the-badge&labelColor=0d1117)
+⚡ ![Fun](https://img.shields.io/static/v1?label=Fun%20Fact&message=Debugging%20is%20my%20cardio&color=FFD93D&style=for-the-badge&labelColor=0d1117)
  
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
 
 ## 🛠️ Tech Stack
