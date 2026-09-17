@@ -46,22 +46,20 @@ fun_fact: "Debugging is my cardio"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eta-one-87.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eta-one-87.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tizkan&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
+
 ## 🐍 Contribution Snake
-
+ 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Tizkan/Tizkan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
 </div>
-
 > ⚠️ **Setup needed:** this image link only turns into a real animated snake after you add the GitHub Action to your `Tizkan/Tizkan` repo (see the steps sent earlier). Until then, this line will show as broken — that's expected, not an error in the file.
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
 
 ## 🌐 Connect with Me
