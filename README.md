@@ -38,9 +38,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats-eight-pi.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tizkan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
