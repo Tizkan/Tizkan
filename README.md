@@ -13,19 +13,22 @@
 ## 🧑‍💻 About Me
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
-
 <div align="center">
+<h3>👋 Hey, I'm Trọng Tín — a student developer from Vietnam</h3>
  
-🎓 ![Role](https://img.shields.io/static/v1?label=Role&message=Software+Dev+Student&color=2F81F7&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
-🎯 ![Focus](https://img.shields.io/static/v1?label=Focus&message=Backend+with+.NET+Stack&color=8A2BE2&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
+<p>Passionate about backend development, currently deep in the <b>.NET ecosystem</b> and always looking for the next thing to build.</p>
+<br>
+
+![Role](https://img.shields.io/static/v1?label=🎓%20Role&message=Software+Dev+Student&color=2F81F7&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
+![Focus](https://img.shields.io/static/v1?label=🎯%20Focus&message=Backend+.NET+Stack&color=8A2BE2&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
+![Database](https://img.shields.io/static/v1?label=🗄️%20Database&message=MySQL&color=00758F&style=for-the-badge&labelColor=0d1117)
  
-🗄️ ![Database](https://img.shields.io/static/v1?label=Database&message=MySQL&color=00758F&style=for-the-badge&labelColor=0d1117)
-🌐 ![Frontend](https://img.shields.io/static/v1?label=Front-end&message=HTML%20/%20CSS%20/%20JS&color=E34F26&style=for-the-badge&labelColor=0d1117)
+![Frontend](https://img.shields.io/static/v1?label=🌐%20Front-end&message=HTML+•+CSS+•+JS&color=E34F26&style=for-the-badge&labelColor=0d1117)
+![Learning](https://img.shields.io/static/v1?label=🌱%20Learning&message=ASP.NET+Core&color=00C6FF&style=for-the-badge&labelColor=0d1117)
+![Looking](https://img.shields.io/static/v1?label=💼%20Open+to&message=Internships&color=FF6B6B&style=for-the-badge&labelColor=0d1117)
  
-🌱 ![Learning](https://img.shields.io/static/v1?label=Learning&message=ASP.NET%20Core%20/%20Clean%20Architecture&color=00C6FF&style=for-the-badge&labelColor=0d1117)
- 
-💼 ![Looking](https://img.shields.io/static/v1?label=Looking%20For&message=Internship%20%26%20Collaboration&color=FF6B6B&style=for-the-badge&labelColor=0d1117)
-⚡ ![Fun](https://img.shields.io/static/v1?label=Fun%20Fact&message=Debugging%20is%20my%20cardio&color=FFD93D&style=for-the-badge&labelColor=0d1117)
+<br>
+<sub>⚡ <i>Fun fact: debugging is my cardio</i></sub>
  
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
