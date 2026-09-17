@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Trong%20Tin%20(Tizkan)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Web%20Developer%20%7C%20Software%20Student&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Trong%20Tin%20(Tizkan)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Web%20Developer%20%7C%20Software%20Student&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I+am+Tizkan+%F0%9F%91%8B;C%23+%7C+.NET+%7C+ASP.NET+Developer;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I+am+Tizkan+%F0%9F%91%8B;C%23+%7C+.NET+%7C+ASP.NET+Developer;Building+clean+and+scalable+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
 
 </div>
 
@@ -46,18 +46,12 @@ fun_fact: "Debugging is my cardio"
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tizkan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tizkan&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
-
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
-
 ## 🐍 Contribution Snake
 
 <div align="center">
