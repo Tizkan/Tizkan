@@ -14,9 +14,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
 <div align="center">
+ 
 <h3>👋 Hey, I'm Trọng Tín — a student developer from Vietnam</h3>
  
 <p>Passionate about backend development, currently deep in the <b>.NET ecosystem</b> and always looking for the next thing to build.</p>
+
 <br>
 
 ![Role](https://img.shields.io/static/v1?label=🎓%20Role&message=Software+Dev+Student&color=2F81F7&style=for-the-badge&labelColor=0d1117&cacheSeconds=1)
@@ -28,11 +30,12 @@
 ![Looking](https://img.shields.io/static/v1?label=💼%20Open+to&message=Internships&color=FF6B6B&style=for-the-badge&labelColor=0d1117)
  
 <br>
+
 <sub>⚡ <i>Fun fact: debugging is my cardio</i></sub>
  
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,25:8A2BE2,50:FF6B6B,75:FFD93D,100:00c6ff&height=6" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:00c6ff&height=3" />
 
 ## 🛠️ Tech Stack
 
